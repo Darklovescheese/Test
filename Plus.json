@@ -1,0 +1,12 @@
+{
+  "tab": {
+    "name": "Tab Name",
+    "description": "Description for the tab",
+    "icon": "info",
+    "bypasses": [
+      "Bypass 1",
+      "Bypass 2",
+      "Bypass 3"
+    ]
+  }
+}
